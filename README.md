@@ -44,7 +44,7 @@
 ### Current Projects
 - I am currently developing small web applications, handling both the back-end and front-end development.
 - **Vorpal**: A complete video game/website set in a fantasy world created entirely from scratch, implementing various advanced and cutting-edge technologies.
-- **Koilos**: A new cultural social.
+- **Portoflio Personal Page**: a personal portfolio with Angular18 and TailwindCSS
 <!---
 ilmuratore/ilmuratore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
