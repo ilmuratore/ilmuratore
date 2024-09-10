@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Simone (@ilmuratore)
 
 ## About Me
-- 👀 I’m interested in web development, backend systems, and cloud computing.
+- 👀 I’m a Full-Stack Web Developer, backend systems, and cloud computing.
 - 🌱 I’m currently learning how to develop complex dynamic applications with MEAN stack.
 - 💞️ I’m looking for a job as a junior web developer, both in back-end and front-end.
 - 📫 How to reach me: You can contact me via email at [iengo.simone@gmail.com](mailto:iengo.simone@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/simone-iengo-557914109/).
