@@ -52,9 +52,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Current Projects
-- I am currently developing small web applications, handling both the back-end and front-end development.
-- **NexCoreCRM**: a simplified and scalable CRM for business agency ( insurance, management, inventory etc.. )  
--**Tiddo**: a first version of toDo app with groups functionality. 
+- I am currently developing small web applications, handling both the back-end and front-end development:
 - **Vorpal**: A complete video game/website set in a fantasy world created entirely from scratch, implementing various advanced and cutting-edge technologies.
--**Portfolio**: My personal Portfolio with all my works. Link: https://portfolio-psi-tan-23.vercel.app/
+- **Portfolio**: My personal Portfolio with all my works. Link: https://portfolio-psi-tan-23.vercel.app/
 - **LandingPages**: a simply Marketin Pages for some clients with UI/UX experience
